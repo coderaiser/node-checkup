@@ -3,10 +3,10 @@
   "version": "1.0.1",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "check arguments and if they wrong throw exeption",
-  "homepage": "http://github.com/coderaiser/checkup",
+  "homepage": "http://github.com/coderaiser/node-checkup",
   "repository": {
     "type": "git",
-    "url": "git://github.com/coderaiser/checkup.git"
+    "url": "git://github.com/coderaiser/node-checkup.git"
   },
   "dependencies": {},
   "license": "MIT",
