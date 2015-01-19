@@ -1,6 +1,6 @@
 {
   "name": "checkup",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "check arguments and if they wrong throw exeption",
   "homepage": "http://github.com/coderaiser/node-checkup",
