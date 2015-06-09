@@ -13,6 +13,14 @@ npm i chukup --save
 ```js
 var check   = require('checkup');
 
+function someFn(arg1, arg2, arg3) {
+    check({
+        arg1: arg1,
+        arg2, arg2
+        arg3: arg3
+    });
+}
+
 function showName(name, callback) {
     check(arguments, ['name'])
     .check(arguments, ['callback'])
