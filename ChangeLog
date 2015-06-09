@@ -1,3 +1,9 @@
+2015.06.09, v1.2.1
+
+fix:
+- (check) throw Error -> throwError
+
+
 2015.06.09, v1.2.0
 
 feature:
